@@ -44,7 +44,7 @@ class loan(models.Model):
 class loanAdmin(admin.ModelAdmin):
 	list_display=('Name','Accno','DOB','Photo','Mobileno','Aadharno')
 
-    ```
+```
 
 ## OUTPUT
 Screenshot (6).png

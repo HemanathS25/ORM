@@ -47,7 +47,7 @@ class loanAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-Screenshot (6).png
+![alt text](<Screenshot (6).png>)
 
 
 
